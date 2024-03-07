@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Doğukan KÖR</h1>
 <h3 align="center">Backend developer at Inity</h3>
 
-- I have a website where I introduce myself [www.dogukankor.com]([www.dogukankor.com](https://dogukankor.com/))
+- I have a website where I introduce myself [www.dogukankor.com](https://dogukankor.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
