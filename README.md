@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Full Stack Developer at Inity
+I am Full Stack Developer at CallTech
 
 
 ## 🌐 Socials:
